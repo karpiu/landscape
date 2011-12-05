@@ -21,10 +21,6 @@
 
 using namespace std;
 
-// to do:
-//  documentation
-//
-
 //globals
 
 fps fps_handler;
