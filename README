@@ -5,8 +5,14 @@ Author: Michal Karpinski
 
 How to use:
 
-...
+1. Go to ./src/
+2. Type: make all
+3. Type: ./prog.e <path to hgt file>
 
 Controls:
 
-...
+Left/Right arrow keys: rotate camera horizontaly
+PageUp/PageDown arrow keys: move camera up/down
+Up/Down arrow keys: move camera front/back
+F1: change view (spectator horizontal view / eagle eye view)
+Esc: exit program
